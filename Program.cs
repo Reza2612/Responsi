@@ -51,7 +51,7 @@ namespace Responsi
         {
             Console.Clear();
             
-			Console.WriteLine("Pilih menu Aplikasi");
+	    Console.WriteLine("Pilih menu Aplikasi");
             Console.WriteLine("\n1. Tambah Produk");
             Console.WriteLine("2. Hapus Produk");
             Console.WriteLine("3. Tampilkan Produk");
